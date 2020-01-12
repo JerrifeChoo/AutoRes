@@ -1,10 +1,3 @@
-/*
- * @Author: zjf
- * @Date: 2020-01-10 19:17:03
- * @Last Modified by: zjf
- * @Last Modified time: 2020-01-10 19:17:03
- * @Copyright(c) 2019, cxx All rights reserved.
- */
 cc.Animation.prototype.addClip = function addClip(clip, newName) {
     if (!clip) {
         cc.warnID(3900);
