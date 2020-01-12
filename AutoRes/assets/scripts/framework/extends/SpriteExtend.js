@@ -1,10 +1,3 @@
-/*
- * @Author: zjf
- * @Date: 2020-01-10 19:17:17
- * @Last Modified by: zjf
- * @Last Modified time: 2020-01-10 19:33:01
- * @Copyright(c) 2019, cxx All rights reserved.
- */
 Object.defineProperty(cc.Sprite.prototype, "spriteFrame", {
     get: function () {
         return this._spriteFrame;
