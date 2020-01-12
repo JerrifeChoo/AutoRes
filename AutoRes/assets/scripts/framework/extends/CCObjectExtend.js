@@ -1,10 +1,3 @@
-/*
- * @Author: zjf
- * @Date: 2020-01-10 19:17:07
- * @Last Modified by: zjf
- * @Last Modified time: 2020-01-10 19:17:07
- * @Copyright(c) 2019, cxx All rights reserved.
- */
 let __destroyImmediate = cc.Object.prototype._destroyImmediate;
 cc.Object.prototype._destroyImmediate = function () {
     if (cc.LOADER_DELEGATE) {
