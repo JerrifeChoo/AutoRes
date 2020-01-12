@@ -1,11 +1,3 @@
-/*
- * @Author: zjf
- * @Date: 2019-11-29 10:46:05
- * @Last Modified by: zjf
- * @Last Modified time: 2020-01-10 13:00:15
- * @Copyright(c) 2019, cxx All rights reserved.
- */
-
 function LoaderProxy() {
     let protos = Object.getOwnPropertyNames(cc.loader);
     for (let key in protos) {
