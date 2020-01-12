@@ -1,10 +1,3 @@
-/*
- * @Author: zjf
- * @Date: 2020-01-10 19:17:14
- * @Last Modified by: zjf
- * @Last Modified time: 2020-01-10 19:17:14
- * @Copyright(c) 2019, cxx All rights reserved.
- */
 Object.defineProperty(sp.Skeleton.prototype, "skeletonData", {
     get: function () {
         return this._N$skeletonData;
