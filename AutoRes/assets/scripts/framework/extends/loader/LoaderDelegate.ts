@@ -1,11 +1,3 @@
-/*
- * @Author: zjf
- * @Date: 2019-11-28 16:38:51
- * @Last Modified by: zjf
- * @Last Modified time: 2020-01-10 14:51:18
- * @Copyright(c) 2019, cxx All rights reserved.
- */
-
 //defined cc.LoaderProxy first;
 import LoaderProxy = require("./LoaderProxy");
 LoaderProxy;
