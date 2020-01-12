@@ -1,10 +1,3 @@
-/*
- * @Author: zjf
- * @Date: 2019-11-29 10:53:08
- * @Last Modified by: zjf
- * @Last Modified time: 2020-01-04 13:08:09
- * @Copyright(c) 2019, cxx All rights reserved.
- */
 declare namespace cc {
 
     // export type ProgressCallback = (completedCount: number, totalCount: number, item: any) => void;
